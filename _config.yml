@@ -1,0 +1,5 @@
+name: The Node Aesthetic
+baseurl: /
+permalink: /:title/
+paginate: 10 
+exclude: 
