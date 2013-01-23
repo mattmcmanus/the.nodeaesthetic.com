@@ -1,5 +1,7 @@
 name: The Node Aesthetic
-baseurl: /
+server_port: 4000
+url: http://the.nodeaesthetic.com
 permalink: /:title/
-paginate: 10 
+paginate: 10
+markdown: maruku
 exclude: 
